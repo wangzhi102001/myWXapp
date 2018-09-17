@@ -1,0 +1,20 @@
+<!--pages/posts/postdetail/postdetail.wxml-->
+
+<view class='postdetail-container'>
+  <image class='postdetail-img' src="/images/post/crab.png" />
+  <view class='postdetail-author-name-timesince'>
+    <image class='post-author' src="/images/avatar/1.png" />
+    <text class='author-name'>李白</text>
+    <text class='timesince' >发表于</text>
+    <text class='timesince'>三百年前</text>
+  </view>
+  <view class ="share-collection">
+    <image class='share' src='/images/icon/share.png'></image>
+    <image class='share' src='/images/icon/collection.png'></image>
+  </view>
+  <view>
+    <text class='title-2'>锄禾日当午</text>
+    <text class='detail'>汗滴禾下入汗滴禾下入汗滴禾下入汗滴禾下入汗滴禾下入汗滴禾下入汗滴禾下入汗滴禾下入汗滴禾下入汗滴禾下入汗滴禾下入汗滴禾下入汗滴禾下入</text>
+  </view>
+
+</view>
